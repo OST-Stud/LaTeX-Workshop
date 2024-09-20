@@ -1,0 +1,30 @@
+ __      __                 __               __
+/\ \  __/\ \               /\ \             /\ \
+\ \ \/\ \ \ \    ___   _ __\ \ \/'\     ____\ \ \___     ___   _____
+ \ \ \ \ \ \ \  / __`\/\`'__\ \ , <    /',__\\ \  _ `\  / __`\/\ '__`\
+  \ \ \_/ \_\ \/\ \L\ \ \ \/ \ \ \\`\ /\__, `\\ \ \ \ \/\ \L\ \ \ \L\ \
+   \ `\___x___/\ \____/\ \_\  \ \_\ \_\/\____/ \ \_\ \_\ \____/\ \ ,__/
+    '\/__//__/  \/___/  \/_/   \/_/\/_/\/___/   \/_/\/_/\/___/  \ \ \/
+                                                                 \ \_\
+                                                                  \/_/
+
+Greetings, student!
+
+Do you have a thesis to write in the (near) future? Then you'd better start
+learning how to use LaTeX, the tool for academic typesetting.
+
+    When?    1. October 2024, 17:00
+    Where?   Campus Rapperswil Room 5.001
+    What?    Presentation + Kickstart. Bring your laptop!
+
+It's not exactly easy to use, and that's why we provide a workshop - so that
+writing your research's results will be the easier part of your thesis.
+
+
+Register now at the following link:
+
+https://forms.gle/qFWP173qDxy6GEQz6
+
+And take a look at the git repository
+
+https://github.com/openhsr/LaTeX-Workshop
