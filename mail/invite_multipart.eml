@@ -98,7 +98,7 @@ Content-Type: text/html; charset=utf-8
   }
 
   .banner {
-    font-size: 10px !important;
+    font-size: 2vw !important;
   }
 }
 @media all {
