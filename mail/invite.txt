@@ -13,7 +13,7 @@ Greetings, student!
 Do you have a thesis to write in the (near) future? Then you'd better start
 learning how to use LaTeX, the tool for academic typesetting.
 
-    When?    1. October 2024, 17:00
+    When?    7. October 2024, 17:00
     Where?   Campus Rapperswil Room 5.001
     What?    Presentation + Kickstart. Bring your laptop!
 
