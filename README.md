@@ -1,5 +1,5 @@
-# `Open\OST` LaTeX Workshop
-This repository contains the documentation for the OpenOST introductory LaTeX workshop.
+# Elektrotechnik Fachschaft LaTeX Workshop
+This repository contains the documentation for the introductory LaTeX workshop.
 
 ![TeXWorks Editor](pics/texworks.png)
 
@@ -104,10 +104,10 @@ Of course on the internet there are a million other templates, however beware mo
 
 ## License
 ```
-Open\OST-LaTeX-Workshop (c) by Naoki Pross
+LaTeX-Workshop 2024 (c) by Naoki Pross
 
-Open\OST-LaTeX-Workshop is licensed under a
-Creative Commons Attribution-ShareAlike 4.0 Unported License.
+LaTeX-Workshop is licensed under a Creative Commons Attribution-ShareAlike 4.0
+Unported License.
 
 You should have received a copy of the license along with this
 work.  If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
