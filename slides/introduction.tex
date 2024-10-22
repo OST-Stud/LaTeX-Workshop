@@ -130,9 +130,9 @@
             radius=2.2, explode=.1, % text=pin,
             color={hsr-blue40, hsr-mauve40, hsr-lakegreen40}
           ]{
-            35.4/What is \textrm{\LaTeX},
-            58.5/Beginner,
-             6.2/Intermediate
+            35.8/What is \textrm{\LaTeX},
+            58.2/Beginner,
+             6/Intermediate
           }
         \end{tikzpicture}
       }
@@ -1044,7 +1044,27 @@ Maxwell's equations in their integral form are:
 \end{subequations}
 \end{frame}
 
-\begin{frame}{Learn by doing: try to typeset these}
+\begin{frame}[fragile]{Learn by doing: Resources}
+  \begin{center}
+    (These are clickable links!)
+  \end{center}
+  \begin{block}{Wikis and References}
+    \begin{itemize}
+      \item \href{https://github.com/HSR-Stud/Willkommen/blob/master/Guidelines.md}{Guidelines: Do and Don't}
+      \item \href{https://en.wikibooks.org/wiki/LaTeX#Contents}{Wikibooks on \textrm{\LaTeX}}
+      \item \href{https://www.overleaf.com/learn}{Overleaf Guides}
+      \item \href{https://ctan.org/}{CTAN Manuals}
+    \end{itemize}
+  \end{block}
+  \begin{block}{How do I write that symbol?}
+    \begin{itemize}
+      \item \href{http://detexify.kirelabs.org/classify.html}{De\TeX ify}
+      \item \href{https://github.com/HSR-Stud/LaTeX-Workshop/blob/master/references/symbols-compact.pdf}{\textrm{\LaTeX} Mathematical Symbols}
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\begin{frame}{Learn by doing: Try to typeset these}
 \centering
 \scalebox{1.8}{%
 \begin{minipage}{.5\textwidth}
@@ -1058,6 +1078,37 @@ Maxwell's equations in their integral form are:
     e^{st} F(s) \,\mathrm{d}s\\
 \end{align*}
 \end{minipage}}
+\end{frame}
+
+\begin{frame}{How to write mathematics?}
+  \begin{block}{Examples?}
+    \begin{itemize}
+      \item Do not abuse quantifier symbols ($\forall, \exists, \wedge, \nexists, \ldots )$
+      \item Symbols have grammatical roles
+      \item Equations are sentences
+    \end{itemize}
+  \end{block}
+
+  \begin{exampleblock}{Concrete example}
+    Definition of contractive map for $f : X \to X$ 
+    \begin{description}
+      \item[Bad] $\exists \varrho \in [0, 1) ~ \forall x, y \in X : 
+        \|f(x) - f(y)\| \leq \varrho \|x - y\|$ \\[1em]
+      \item[Good] There is a $\varrho \in [0, 1)$ such that for all $x, y \in X$
+        any two points get closer after applying $f$, that is, $\|f(x) -
+        f(y)\| \leq \varrho \|x - y\|$.
+    \end{description}
+  \end{exampleblock}
+\end{frame}
+
+\begin{frame}{How to write mathematics?}
+  \begin{center}
+    Another example:
+    \\[1em]
+    \includegraphics[width=\linewidth]{figs/math-sentence}
+    \\[1em]
+    For more: ``How to write mathematics'' by P. R. Halomos
+  \end{center}
 \end{frame}
 
 \section{Bibliography management}
