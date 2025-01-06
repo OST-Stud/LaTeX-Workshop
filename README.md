@@ -68,7 +68,7 @@ _Note:_ Your TeX distribution may already include an editor (for ex. TeXShop for
 | Texifier                 | macOS                 | [Click me](https://www.texifier.com/)                              | Yes \*3     | Yes             | No      | No        | Yes         | No ([~30CHF](https://www.texifier.com/osx/buy)) | No       |
 | TeXMaker                 | macOS, Linux, Windows | [Click me](https://www.xm1math.net/texmaker/)                      | Yes         | Yes             | No      | No        | Yes         | Yes                                             | No       |
 | Compositor               | macOS                 | [Click me](https://compositorapp.com/)                             | Yes \*4     | No \*4          | No      | No        | ?           | No (~30CHF)                                     | No       |
-| Overleaf                 | Online                | [Click me](https://www.overleaf.com/)                              | Yes         | Yes             | Yes     | No        | Yes         | Depends \*7                                     | Yes      |
+| Overleaf                 | Online                | [Click me](https://www.overleaf.com/)                              | Yes         | Yes             | Yes     | No        | Yes         | Depends \*7                                     | Yes \*5  |
 
 - **\*1**: It's essentially the successor to Texmaker.
 - **\*2**: Works with an external PDF-viewer but supports features like "jumping back to the location in the code" and vice versa (unlike most others).
