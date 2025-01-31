@@ -116,7 +116,6 @@ Of course on the internet there are a million other templates, however beware mo
 - [A comprehensive LaTeX Symbol List](references/symbols-a4.pdf) ([online](http://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf))
 - [The LaTeX Font Catalogue (online)](https://www.tug.org/FontCatalogue/)
 - [Usfull website for creating tables](https://www.tablesgenerator.com/)
-- [Handwritten symbol finder](https://detexify.kirelabs.org)
 - [Equation to picture exporter](https://latex2image.joeraut.com/)
 - [Color reference](https://latexcolor.com/)
 - _Advanced!_ [Graphics in LaTeX using TikZ (online)](https://www.tug.org/TUGboat/tb29-1/tb91walczak.pdf)
