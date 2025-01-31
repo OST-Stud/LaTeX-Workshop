@@ -105,27 +105,33 @@ Of course on the internet there are a million other templates, however beware mo
 
 - [Overleaf's LaTeX templates for theses](https://www.overleaf.com/latex/templates/tagged/thesis)
 
-## Further readings and useful links
+## Useful links (tools)
+
+Here are some tools online that might be useful.
+
+| Name / URL                                             | Description                         |
+| ------------------------------------------------------ | ----------------------------------- |
+| [Detexify](http://detexify.kirelabs.org/classify.html) | Handwritten symbol recognition      |
+| [Tables Generator](https://www.tablesgenerator.com/)   | Generate tables                     |
+| [LaTeX to Image](https://latex2image.joeraut.com/)     | Convert latex formulae to an image  |
+| [LaTeX Color](https://latexcolor.com/)                 | LaTeX color names reference         |
+| [TikzMaker](https://tikzmaker.com/)                    | Draw using TikZ and CircuitTikz     | 
+
+## Further readings
 
 - [LaTeX tips and guidelines to avoid terrible typesetting (online)](https://github.com/HSR-Stud/Willkommen/blob/master/Guidelines.md)
 - [Wikibooks LaTeX (online)](https://en.wikibooks.org/wiki/LaTeX#Contents)
 - [Introduction to LaTeX (online)](https://web.mit.edu/rsi/www/pdfs/new-latex.pdf)
 - [A not so short introduction to LaTeXe](references/lshort.pdf) ([online](https://tobi.oetiker.ch/lshort/lshort.pdf))
-- [Detexify LaTeX handwritten symbols recognition (online)](http://detexify.kirelabs.org/classify.html)
 - [LaTeX Mathematical Symbols (compact)](references/symbols-compact.pdf) ([online](https://www.caam.rice.edu/~heinken/latex/symbols.pdf))
 - [A comprehensive LaTeX Symbol List](references/symbols-a4.pdf) ([online](http://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf))
 - [The LaTeX Font Catalogue (online)](https://www.tug.org/FontCatalogue/)
-- [Usfull website for creating tables](https://www.tablesgenerator.com/)
-- [Equation to picture exporter](https://latex2image.joeraut.com/)
-- [Color reference](https://latexcolor.com/)
 - _Advanced!_ [Graphics in LaTeX using TikZ (online)](https://www.tug.org/TUGboat/tb29-1/tb91walczak.pdf)
 - _Advanced!_ [A very minimal introduction to TikZ (online)](http://cremeronline.com/LaTeX/minimaltikz.pdf)
 - _Advanced!_ [CTAN Topic TikZ (online)](https://www.ctan.org/topic/pgf-tikz)
 - _Advanced!_ [Manual for PGF and TikZ (online)](http://mirror.easyname.at/ctan/graphics/pgf/base/doc/pgfmanual.pdf)
 - _Advanced!_ [Manual for Package PGFPLOTS (online)](http://mirror.easyname.at/ctan/graphics/pgf/contrib/pgfplots/doc/pgfplots.pdf)
-- _Advanced!_ [Building a new LATEX document class is illustrated by developing a class forminutes of meetings (online)](http://tutex.tug.org/pracjourn/2005-4/hefferon/hefferon.pdf)
 - _Advanced!_ [LaTeXe for class and package writers](references/clsguide.pdf) ([online](https://www.latex-project.org/help/documentation/clsguide.pdf))
-- _Advanced!_ [Draw electronic schematics online](https://tikzmaker.com/)
 
 ## License
 
