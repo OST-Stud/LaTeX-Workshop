@@ -109,13 +109,14 @@ Of course on the internet there are a million other templates, however beware mo
 
 Here are some tools online that might be useful.
 
-| Name / URL                                             | Description                         |
-| ------------------------------------------------------ | ----------------------------------- |
-| [Detexify](http://detexify.kirelabs.org/classify.html) | Handwritten symbol recognition      |
-| [Tables Generator](https://www.tablesgenerator.com/)   | Generate tables                     |
-| [LaTeX to Image](https://latex2image.joeraut.com/)     | Convert latex formulae to an image  |
-| [LaTeX Color](https://latexcolor.com/)                 | LaTeX color names reference         |
-| [TikzMaker](https://tikzmaker.com/)                    | Draw using TikZ and CircuitTikz     | 
+| Name / URL                                             | Description                                                                                           |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| [Detexify](http://detexify.kirelabs.org/classify.html) | Handwritten symbol recognition                                                                        |
+| [Tables Generator](https://www.tablesgenerator.com/)   | Generate tables                                                                                       |
+| [LaTeX to Image](https://latex2image.joeraut.com/)     | Convert latex formulae to an image                                                                    |
+| [LaTeX Color](https://latexcolor.com/)                 | LaTeX color names reference                                                                           |
+| [TikzMaker](https://tikzmaker.com/)                    | Draw using TikZ and CircuitTikz                                                                       |
+| [IPE](https://ipe-web.otfried.org/index.html)          | Draw with text rendered using LaTeX, can also be [installed](https://ipe.otfried.org/) to use offline |
 
 ## Further readings
 
