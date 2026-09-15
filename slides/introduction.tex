@@ -11,7 +11,12 @@
 
 % use plex font for monospaced, roboto for the rest
 \usepackage[T1]{fontenc}
-\usepackage{plex-otf} % monospaced
+% math=false: don't set IBM Plex Math; unicode-math (loaded by plex-otf) then
+% falls back to its default math font, Latin Modern Math. The sym keys route
+% the legacy \math.. commands through unicode-math's alphabet system; without
+% them they would break (TL2026 plex-otf regression) or fall back to text fonts.
+\usepackage[math=false]{plex-otf} % monospaced
+\unimathsetup{mathrm=sym,mathbf=sym,mathit=sym,mathsf=sym,mathtt=sym}
 \usepackage{roboto} % other
 \renewcommand*\familydefault{\sfdefault}
 
